@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>356988819777-2q72heuhj1j2povh2860dt45tumkm6jd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.356988819777-2q72heuhj1j2povh2860dt45tumkm6jd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDs3cEK7owhj3XZ9MHaxTIi08Ki20xG-eo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356988819777</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.merkle.appstack.devicebooking</string>
+	<key>PROJECT_ID</key>
+	<string>device-booking-95e2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>device-booking-95e2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356988819777:ios:9466eb8438365059a669c0</string>
+</dict>
+</plist>
